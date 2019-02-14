@@ -10,6 +10,6 @@
 避免 NullPointerException, 如`#{PlaceOfBirth?.City}`
 
 ### 集合选择 
-.?[selectionExpression] 如 #{its.?[weight lt 3.5]} 
+`.?[selectionExpression]` 如 `#{its.?[weight lt 3.5]} `
 ### 集合投影
-#{its.![good]}
+`#{its.![good]}`
