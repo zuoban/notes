@@ -13,3 +13,5 @@
 `.?[selectionExpression]` 如 `#{its.?[weight lt 3.5]} `
 ### 集合投影
 `#{its.![good]}`
+
+![image.png](0)
